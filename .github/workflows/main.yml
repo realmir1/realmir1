@@ -1,7 +1,6 @@
 GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-
-name: Generate Snake
+name:Generate Snake
 
 
 
@@ -14,7 +13,6 @@ on:
 
   schedule:
 
-      # every 6 hours
 
     - cron: "0 */6 * * *"
 
