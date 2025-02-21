@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left"> Hello, I am Ali, I am a biomedical/medical engineering student at KoU. I work on health technologies and artificial intelligence</p>
+ ## Hello, I am Ali, I am a biomedical/medical engineering student at KoU. I work on health technologies and artificial intelligence
 
 ###
 
