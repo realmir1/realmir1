@@ -73,12 +73,12 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realmir1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="225" alt="stats graph"  /></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=realmir1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /></div>
   
   <br>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realmir1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="225" alt="languages graph"  /></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realmir1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  /></div>
  
   <br>
   <div align="center">
@@ -88,7 +88,7 @@
 <br>
 
  <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif", height="200", alt="activity-graph graph",  />
+  <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif", height="180", alt="activity-graph graph",  />
 </div>
 
 
