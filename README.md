@@ -88,7 +88,7 @@
 <br>
 
  <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif", height="250", alt="activity-graph graph",  />
+  <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif", height="200", alt="activity-graph graph",  />
 </div>
 
 
