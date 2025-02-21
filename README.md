@@ -78,6 +78,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=realmir1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<br>
+
+ <div align="center">
+  <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif", height="250", alt="activity-graph graph",  />
+</div>
+
 
 
 
