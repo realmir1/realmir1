@@ -7,10 +7,11 @@
 
 ###
 
-<div align="center"> 
-  <img src="https://cdn.dribbble.com/userupload/21714304/file/original-595aad98d36faea3affbc5e8c5f6d268.gif" />
-</div>
 
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/0b/1b/ff/0b1bff36918c2e231d1a980b2c4c3cef.gif" height="400" alt="python logo"  />
+</div>
 
 ###
 
