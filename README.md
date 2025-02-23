@@ -3,7 +3,7 @@
 ###
 
 
- ## Hello, I am Ali, I am a biomedical/medical engineering student at KoU. I work on health technologies and artificial intelligence
+ ## Hello, I am Ali, I am a biomedical/medical engineering student at KoU. I work on health technologies and artificial intelligence. I think high technology is important for humanity and I take care to develop projects for this
 
 ###
 
@@ -39,6 +39,9 @@
 
 ###
 
+
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="65" alt="android logo"  />
   <img width="12" />
@@ -46,6 +49,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="65" alt="pandas logo"  />
 </div>
+
+<br>
+
+
+
+<br>
+
 
 
 ###
@@ -87,6 +97,8 @@
 </div>
 
 <br>
+
+---
 
  <div align="center">
   <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif", height="180", alt="activity-graph graph",  />
