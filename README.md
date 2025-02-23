@@ -65,7 +65,7 @@
 ###
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,androidstudio" ,height="65" />
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,androidstudio" ,height="100" />
   </a>
 </p>
   
