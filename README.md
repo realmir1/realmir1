@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://pin.it/q7QvpcOQj" height="500", width="500",alt="python logo"  />
+<img src= height="500", width="500",alt="python logo"  />
 </div>
 
 ###
