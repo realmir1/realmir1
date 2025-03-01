@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://24.media.tumblr.com/tumblr_mc65brAmH41rexsomo1_400.gif" height="400", width="1300",alt="python logo"  />
+<img src="https://i.pinimg.com/originals/82/26/99/822699a4761030ce91861fe01697129c.gif" height="400", width="1300",alt="python logo"  />
 </div>
 
 ###
