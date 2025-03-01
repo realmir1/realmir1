@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://github.com/realmir1/realmir1/blob/main/%20-2.gif?raw=true" height="500", width="500",alt="python logo"  />
+<img src="https://24.media.tumblr.com/tumblr_mc65brAmH41rexsomo1_400.gif" height="400", width="1300",alt="python logo"  />
 </div>
 
 ###
